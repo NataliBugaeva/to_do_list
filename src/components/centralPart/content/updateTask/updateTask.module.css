@@ -1,0 +1,17 @@
+.buttons {
+  margin-top: 20px; }
+  .buttons button:nth-child(1) {
+    margin-right: 10px; }
+
+textarea {
+  display: block;
+  margin: 15px auto;
+  width: 95%;
+  height: 80px;
+  resize: none;
+  color: #29467F;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+
+h1 {
+  text-align: left;
+  font-size: 1.5rem; }

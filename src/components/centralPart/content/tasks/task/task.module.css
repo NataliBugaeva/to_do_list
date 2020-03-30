@@ -1,0 +1,18 @@
+.task {
+  margin-bottom: 20px; }
+  .task h2 {
+    font-size: 16px;
+    font-weight: bold; }
+
+.task_content {
+  padding: 10px;
+  margin: 10px 0;
+  color: #29467F;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+
+.done {
+  background-color: #6B8FD4;
+  color: #fff; }
+
+.buttons button:nth-child(2) {
+  margin: 0 10px; }

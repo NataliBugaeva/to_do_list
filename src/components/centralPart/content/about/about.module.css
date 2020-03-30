@@ -1,0 +1,14 @@
+.about {
+  color: #29467F; }
+  .about p {
+    text-align: center;
+    margin: 30px 0;
+    line-height: 2rem; }
+  .about button {
+    display: block;
+    margin: 0 auto; }
+  .about a {
+    text-decoration: none; }
+
+.h1 {
+  text-align: center; }

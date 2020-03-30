@@ -1,0 +1,24 @@
+.aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  min-width: 150px;
+  margin-right: 5px;
+  border: 1px solid grey;
+  padding: 0 10px;
+  background-color: #05296E; }
+  .aside > div {
+    text-align: center; }
+    .aside > div:nth-child(1) {
+      margin-bottom: 20px; }
+    .aside > div a {
+      text-decoration: none;
+      color: #fff;
+      font-weight: bold; }
+      .aside > div a:hover {
+        font-size: 1.2rem; }
+
+@media screen and (max-width: 420px) {
+  .aside {
+    display: none; } }

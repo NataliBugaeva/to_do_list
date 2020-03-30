@@ -1,0 +1,21 @@
+.tasks textarea {
+  display: block;
+  margin: 15px auto;
+  width: 95%;
+  height: 80px;
+  resize: none;
+  color: #29467F;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+.tasks h1 {
+  text-align: left;
+  font-size: 1.5rem; }
+
+.buttons {
+  display: flex;
+  justify-content: center; }
+  .buttons button:nth-child(1) {
+    display: inline-block;
+    margin-right: 10px; }
+
+.daily_tasks {
+  margin-top: 30px; }
