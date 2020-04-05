@@ -1,7 +1,7 @@
 import React from 'react';
-import styles from './content.module.css';
+import styles from '../../../styles/centralPart/content/content.module.css';
 
-import About from './about/about';
+import About from './aboutPage/about';
 
 import TasksContainer from './tasks/tasksContainer';
 import UpdateTaskContainer from './updateTask/updateTaskContainer';

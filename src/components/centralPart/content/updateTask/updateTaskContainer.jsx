@@ -2,7 +2,7 @@ import React from 'react';
 import UpdateTask from './updateTask';
 import {connect} from 'react-redux';
 
-import {setTaskActionCreator, setInputTextActionCreator, changeInputTextActionCreator, saveChangesActionCreator} from '../../../../redux/updateTaskPageReducer';
+import {setTaskActionCreator, setInputTextActionCreator, changeInputTextActionCreator, saveChangesActionCreator} from '../../../../reducers/updateTaskPageReducer';
 import {withRouter} from 'react-router-dom';
 
 class UpdateTaskClassContainer extends React.Component {

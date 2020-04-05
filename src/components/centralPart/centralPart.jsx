@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './centralPart.module.css';
+import styles from '../../styles/centralPart/centralPart.module.css';
 
 import Aside from './aside/aside';
 import Content from './content/content';

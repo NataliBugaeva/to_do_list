@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './task.module.css';
+import styles from '../../../../../styles/centralPart/content/tasks/task/task.module.css';
 import {NavLink} from 'react-router-dom';
 
 const Task = (props) => {

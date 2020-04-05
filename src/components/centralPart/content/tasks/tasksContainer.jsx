@@ -3,7 +3,7 @@ import {connect} from 'react-redux';
 
 import Tasks from './tasks';
 import {setTasksActionCreator, changeTextareaTextActionCreator, addNewTaskActionCreator,
-        deleteTaskActionCreator, removeAllTasksActionCreator, changeTaskStatusActionCreator} from '../../../../redux/tasksPageReducer';
+        deleteTaskActionCreator, removeAllTasksActionCreator, changeTaskStatusActionCreator} from '../../../../reducers/tasksPageReducer';
 
 class TasksClassContainer extends React.Component {
 

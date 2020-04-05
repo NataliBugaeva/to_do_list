@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './aside.module.css';
+import styles from '../../../styles/centralPart/aside/aside.module.css';
 
 import {NavLink} from 'react-router-dom';
 

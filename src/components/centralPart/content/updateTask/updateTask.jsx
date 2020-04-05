@@ -1,5 +1,5 @@
 import React, {createRef} from 'react';
-import style from './updateTask.module.css';
+import style from '../../../../styles/centralPart/content/updateTask/updateTask.module.css';
 
 import {NavLink} from 'react-router-dom';
 

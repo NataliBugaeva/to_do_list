@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './tasks.module.css';
+import styles from '../../../../styles/centralPart/content/tasks/tasks.module.css';
 
 import Task from './task/task';
 
